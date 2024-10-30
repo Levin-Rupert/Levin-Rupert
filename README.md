@@ -1,6 +1,7 @@
 ## About My Technical Side
 
 ✅ I've successfully built a Python x MySQL Project - The Hangman Game 
+
 🎯 I’m currently on a mission to explore various computational fields 
      
      ▶ Python - Intermediate Python Programmer
@@ -14,6 +15,7 @@
      ▶ Cloud Computing - Learning
 
 📫 Feel free to e-mail me at levinrupert2006@gmail.com , connect with me www.linkedin.com/in/levin-rupert-m 
+
 ⚜️"Apart from codes and computation, I'm into cars" ⚜️
 
 
