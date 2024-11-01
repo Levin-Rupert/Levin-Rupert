@@ -12,7 +12,11 @@
      
      ▶ Web Development - Foundational Level - Built A Connect 4 Game in a hands-on Web Dev Workshop
      
-     ▶ Cloud Computing - Learning
+     ▶ Cloud Computing - exploring
+
+     ▶ Blockchain - Foundational Level
+
+     ▶ Cyber Security - To be explored
 
 📫 Feel free to e-mail me at levinrupert2006@gmail.com , connect with me www.linkedin.com/in/levin-rupert-m 
 
